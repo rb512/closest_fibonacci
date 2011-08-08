@@ -2,6 +2,17 @@
 
 This is a simple gem which prints the closest fibonacci number of a given number.
 
+Installation:
+  1) Download the source using git clone
+  2) Enter the source folder
+  3) Do a rake install
+  
+Sample usage:
+ 
+ require "closest_fibonacci"
+ 344.closest_fibonacci 
+
+Output: 233
 
 == Contributing to closest_fibonacci
  
