@@ -1,6 +1,7 @@
 = closest_fibonacci
 
-Description goes here.
+This is a simple gem which prints the closest fibonacci number of a given number.
+
 
 == Contributing to closest_fibonacci
  
